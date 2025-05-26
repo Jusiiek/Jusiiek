@@ -10,7 +10,7 @@
 
  - 🌱 I’m currently working on a bot for the discord server.
  - 📒 I’m currently learning Tensorflow, OpenCV and PyTorch.
- - 💬 About me I am currently a fourth-year student majoring in computer science at the Polish-Japanese Academy of Computer Technology in Gdańsk, specializing at artificial intelligence.
+ - 💬 About me I am a graduate of the Computer Science program with a specialization in "Artificial Intelligence" at the Polish-Japanese Academy of Information Technology in Gdańsk.
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
 <p align="center">

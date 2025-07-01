@@ -11,10 +11,32 @@
  - 🌱 I’m currently working on a bot for the discord server.
  - 📒 I’m currently learning Tensorflow, OpenCV and PyTorch.
  - 💬 About me I am a graduate of the Computer Science program with a specialization in "Artificial Intelligence" at the Polish-Japanese Academy of Information Technology in Gdańsk.
-
-<h3 align="left">Languages, Frameworks and Tools:</h3>
+   
+<h3 align="left">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,react,nextjs,vue,python,fastapi,flask,django,git,kubernetes,docker,vim,gitlab,mongodb,mysql,postgres,linux,discord,bots" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,python" />
   </a>
 </p>
+
+<h3 align="left">Frameworks & Libraries:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,fastapi,flask,django,nodejs" />
+  </a>
+</p>
+
+<h3 align="left">Tools & Platforms:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,gitlab,mongodb,mysql,postgres,vim,discord,pytorch" />
+  </a>
+</p>
+
+<h3 align="left">Operating Systems:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,apple" />
+  </a>
+</p>
+
